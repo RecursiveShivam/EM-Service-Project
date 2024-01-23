@@ -1,6 +1,6 @@
 # EM-Service-Project
 Developed an Employee Management WebService Website with HTML, Tailwind CSS, JavaScript, React.js for the frontend.
-Built a robust backend using Spring Boot, Spring Security, and integrated Spring Boot JPA/Hibernate for efficient data handling with MySQL for seamless employee operations.
+Built a robust backend using Spring Boot and integrated Spring Boot JPA/Hibernate for efficient data handling with MySQL for seamless employee operations.
 
 ## HOME Page :
 ![image](https://github.com/RecursiveShivam/EM-Service-Project/assets/156799793/def179d7-4c41-4f98-93b9-17074e302a17)
